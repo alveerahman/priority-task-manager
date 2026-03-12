@@ -19,5 +19,5 @@ In real-world software, data isn't just stored—it needs to be organized. I sol
 
 ## 📖 How to Run
 1. Ensure you have Python installed.
-2. Clone this repository: `git clone https://github.com/your-username/priority-task-manager.git`
+2. Clone this repository: `git clone https://github.com/alveerahman/priority-task-manager.git`
 3. Run: `python task_manager.py`
